@@ -7,7 +7,6 @@
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <HelloWorld />
   <transfer
     v-model="selectIds"
     :data="dataList"
